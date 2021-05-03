@@ -30,7 +30,7 @@ class App extends Component {
 // addReminder=e=>{
 //   let msgref=fire.datebase().ref('msg').orderByKey().limitToLast(100);
 //   fire.database().ref('msg').push(this.state.text,this.state.text1,this.state.text2,this.state.dueDate);
-// }ok no problem
+// }
 
 
   deleteReminder(id){
